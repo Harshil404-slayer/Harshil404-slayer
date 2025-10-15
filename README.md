@@ -64,5 +64,7 @@
 [![](https://visitcount.itsvg.in/api?id=Harshil404-slayer&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
+<img src="https://raw.githubusercontent.com/Harshil404-slayer/Harshil404-slayer/output/snake.svg" alt="Snake animation" />
 
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
